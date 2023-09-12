@@ -61,7 +61,7 @@ export const data = {
       price: "28.00",
       img: "https://ik.imagekit.io/7fdb87f3f/wooly/mohair-wool-img.jpg",
       category: "combed-wool",
-      color: "gray",
+      color: "white",
     },
     {
       name: "Woolen Throw Blanket",
@@ -69,7 +69,7 @@ export const data = {
       price: "35.00",
       img: "https://ik.imagekit.io/7fdb87f3f/wooly/throw-blanket-img.jpg",
       category: "roving-wool",
-      color: "beige",
+      color: "cream",
     },
     {
       name: "Woolen Mittens",
@@ -77,7 +77,7 @@ export const data = {
       price: "12.00",
       img: "https://ik.imagekit.io/7fdb87f3f/wooly/woolen-mittens-img.jpg",
       category: "roving-wool",
-      color: "red",
+      color: "brown",
     },
     {
       name: "Woolen Beanie Hat",
@@ -85,7 +85,7 @@ export const data = {
       price: "10.00",
       img: "https://ik.imagekit.io/7fdb87f3f/wooly/woolen-hat-img.jpg",
       category: "roving-wool",
-      color: "black",
+      color: "white",
     },
     {
       name: "Lambswool",
@@ -93,7 +93,7 @@ export const data = {
       price: "22.00",
       img: "https://ik.imagekit.io/7fdb87f3f/wooly/lambswool-img.jpg",
       category: "combed-wool",
-      color: "off-white",
+      color: "white",
     },
   ],
 };

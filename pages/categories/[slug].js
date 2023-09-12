@@ -97,29 +97,7 @@ function CategoryPage() {
                     <input
                       type="checkbox"
                       className="form-checkbox text-indigo-500"
-                      value="brown"
-                      onChange={handleColorChange}
-                    />
-                    <span className="ml-2 text-gray-700">Brown</span>
-                  </label>
-                </li>
-                <li>
-                  <label className="inline-flex items-center">
-                    <input
-                      type="checkbox"
-                      value="orange"
-                      className="form-checkbox text-indigo-500"
-                      onChange={handleColorChange}
-                    />
-                    <span className="ml-2 text-gray-700">Orange</span>
-                  </label>
-                </li>
-                <li>
-                  <label className="inline-flex items-center">
-                    <input
-                      type="checkbox"
                       value="white"
-                      className="form-checkbox text-indigo-500"
                       onChange={handleColorChange}
                     />
                     <span className="ml-2 text-gray-700">White</span>
@@ -129,11 +107,33 @@ function CategoryPage() {
                   <label className="inline-flex items-center">
                     <input
                       type="checkbox"
-                      value="blue"
+                      value="cream"
                       className="form-checkbox text-indigo-500"
                       onChange={handleColorChange}
                     />
-                    <span className="ml-2 text-gray-700">Blue</span>
+                    <span className="ml-2 text-gray-700">Cream</span>
+                  </label>
+                </li>
+                <li>
+                  <label className="inline-flex items-center">
+                    <input
+                      type="checkbox"
+                      value="brown"
+                      className="form-checkbox text-indigo-500"
+                      onChange={handleColorChange}
+                    />
+                    <span className="ml-2 text-gray-700">Brown</span>
+                  </label>
+                </li>
+                <li>
+                  <label className="inline-flex items-center">
+                    <input
+                      type="checkbox"
+                      value="biege"
+                      className="form-checkbox text-indigo-500"
+                      onChange={handleColorChange}
+                    />
+                    <span className="ml-2 text-gray-700">Biege</span>
                   </label>
                 </li>
               </ul>
